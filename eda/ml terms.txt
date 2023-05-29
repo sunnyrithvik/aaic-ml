@@ -1,0 +1,11 @@
+
+EDA
+-- mean, variance, standard deviation, median
+-- histogram, pdf, cdf
+-- percentiles, quantiles
+-- inter quantile range (iqr), median absolute deviation (mad)
+-- box plot and whiskers, violin plot
+-- univariate, bivariate, multivariate analysis, contour plots
+							
+
+
